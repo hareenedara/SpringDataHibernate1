@@ -1,0 +1,7 @@
+
+sampleApp:
+  customerDB:
+    url: jdbc:mysql://diskstation:3307/dev-refresh
+    driverClass: org.mariadb.jdbc.Driver
+    username: dev
+    password: Password01
